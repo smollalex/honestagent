@@ -1,0 +1,33 @@
+export const button = () => {
+  return {
+    root: {},
+    label: {},
+    text: {},
+    textPrimary: {},
+    textSecondary: {},
+    textSizeSmall: {},
+    textSizeLarge: {},
+    outlined: {},
+    outlinedPrimary: {},
+    outlinedSecondary: {},
+    outlinedSizeSmall: {},
+    outlinedSizeLarge: {},
+    contained: {},
+    containedPrimary: {},
+    containedSecondary: {},
+    containedSizeSmall: {},
+    containedSizeLarge: {},
+    disableElevation: {},
+    focusVisible: {},
+    disabled: {},
+    colorInherit: {},
+    sizeSmall: {},
+    sizeLarge: {},
+    fullWidth: {},
+    startIcon: {},
+    endIcon: {},
+    iconSizeSmall: {},
+    iconSizeMedium: {},
+    iconSizeLarge: {}
+  };
+};
